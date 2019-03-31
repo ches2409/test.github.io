@@ -4291,7 +4291,7 @@ body {
     color: #efefef; }
 
 .mainContainer-Service.sectionTwo {
-  background-image: url("/src/images/img02.png");
+  background-image: url("images/img02.png");
   background-repeat: no-repeat;
   background-size: 100%; }
   .mainContainer-Service.sectionTwo .mainContainer-Service_banner__icon {
@@ -4316,7 +4316,7 @@ body {
     color: aliceblue; }
 
 .mainContainer-Service.sectionThree {
-  background-image: url("/src/images/img03.png");
+  background-image: url("images/img03.png");
   background-repeat: no-repeat;
   background-size: 100%; }
   .mainContainer-Service.sectionThree .mainContainer-Service_banner__icon {
@@ -4345,7 +4345,7 @@ body {
   font-size: 2vw; }
 
 .containerServices {
-  background-image: url("/src/images/fondoUs.jpg"); }
+  background-image: url("images/fondoUs.jpg"); }
   .containerServices_box {
     background-color: rgba(44, 43, 43, 0.7); }
     .containerServices_box__title {
