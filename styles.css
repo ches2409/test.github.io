@@ -4270,7 +4270,7 @@ body {
       font-size: 1.2vw; }
 
 .mainContainer-Service.sectionOne {
-  background-image: url("/src/images/img01.png");
+  background-image: url("images/img01.png");
   background-repeat: no-repeat;
   background-size: 100%; }
   .mainContainer-Service.sectionOne .mainContainer-Service_banner__icon {
